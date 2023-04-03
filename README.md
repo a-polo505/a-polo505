@@ -1,4 +1,4 @@
-👋 Hi, I'm Alina.
+👋 Hi, My name is Alina.
 
 I'm a business analyst with a passion for technologies 🔭.
 
