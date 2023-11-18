@@ -1,6 +1,6 @@
 👋 Hi, My name is Alina.
 
-I'm a business analyst with a passion for technologies 🔭.
+I'm a Senior Business System Analyst with a passion for technologies 🔭.
 
 Feel free to send me an 📫 [email](mailto:polozhai.alina@hotmail.com) for collaboration, find me on [twitter](https://twitter.com/a_polo505) or see some projects on my [website](https://a-polo505.github.io/alinapolozhai/).
 
