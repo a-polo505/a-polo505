@@ -1,6 +1,6 @@
 👋 Hi, My name is Alina.
 
-I'm a Senior Business Systems Analyst with a passion for technologies 🔭.
+I'm a Business Systems Analyst with a passion for technologies 🔭.
 
 Currently, I'm also working on a pet project - building a [dashboard](https://dashboard-a-polo505.vercel.app) to visualize various widgets and analyze data. You can check out the source code [here](https://github.com/a-polo505/dashboard).
 
