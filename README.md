@@ -1,3 +1,5 @@
+![private-repository-cover](https://github.com/user-attachments/assets/15226dc1-e35f-443c-a718-bef515d6157f)
+
 👋 Hi, My name is Alina.
 
 I'm a Business Systems Analyst with a passion for technologies 🔭.
